@@ -1,6 +1,6 @@
 # project.demo
 First Github Repositary
 <br/>
-Author- Moiz Ahmad
+Author- Moiz Ahmad Bhatti
 <br/>
 Copyrigth @ Moiz Ahmad
