@@ -2,5 +2,5 @@
 First Github Repositary
 <br/>
 Author- Moiz Ahmad
-<br\>
+<br/>
 Copyrigth @ Moiz Ahmad
